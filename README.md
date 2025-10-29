@@ -7,7 +7,10 @@ Este laboratorio tiene como objetivo desarrollar una aplicación móvil en **Rea
 ## 🧩 Estructura del Proyecto
 
 A continuación se muestra la estructura base del proyecto `SensorsApp` creada con `create-expo-app`. Se incluyen las carpetas y archivos principales:
+
+---
 <img width="372" height="320" alt="image" src="https://github.com/user-attachments/assets/86908005-4dec-469a-9383-3bcdd149b37b" />
+
 ---
 ## 🛠️ Archivo Modificado: App.js
 
